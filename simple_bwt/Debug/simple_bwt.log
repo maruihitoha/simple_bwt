@@ -1,0 +1,6 @@
+﻿  bwt.cpp
+c:\users\marui\desktop\2020-1\컴알실\11\simple_bwt\simple_bwt\bwt.cpp(87): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\marui\desktop\2020-1\컴알실\11\simple_bwt\simple_bwt\bwt.cpp(109): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+c:\users\marui\desktop\2020-1\컴알실\11\simple_bwt\simple_bwt\bwt.cpp(162): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+c:\users\marui\desktop\2020-1\컴알실\11\simple_bwt\simple_bwt\bwt.cpp(309): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  simple_bwt.vcxproj -> C:\Users\marui\Desktop\2020-1\컴알실\11\simple_bwt\Debug\simple_bwt.exe
